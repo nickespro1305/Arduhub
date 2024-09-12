@@ -5,13 +5,13 @@ Arduhub is a library designed to cominicate arduino with one Command and Control
 ## Installation
 ### Developer Server
 
-The installation method for now, is a developing server [Docker](https://www.docker.com/) comming soon
+The installation method for now, is a developing server, [Docker](https://www.docker.com/) comming soon
 
 > [!IMPORTANT]
-> For now, the project doesnt have any undate method of update
+> For now, the project doesnt have any update method of update
 
 > [!CAUTION]
-> it only support a litle amount of board for the moment chech compatibility with your device [here](google.com)
+> it only support a litle amount of boards for the moment chech compatibility with your device [here](google.com)
 
 To install, execute the following commands:
 
