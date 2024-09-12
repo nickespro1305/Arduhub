@@ -14,7 +14,8 @@ RUN npm install
 COPY . .
 
 # Expone el puerto en el que corre tu backend
-EXPOSE 3001
 
 # Comando para correr el backend
 CMD ["node", "server.js"] 
+
+EXPOSE 3001
