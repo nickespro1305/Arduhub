@@ -18,6 +18,7 @@ To run this tool on docker, just run the commands acording to your OS
 <summary>Arch Linux</summary>
 
 ### Installation of docker
+
 > [!CAUTION]
 > we recommend use a [AUR](https://aur.archlinux.org/) package manager like [yay](https://github.com/Jguer/yay) or [paru](https://github.com/Morganamilo/paru) for docker-hub install
 
