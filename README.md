@@ -1,4 +1,4 @@
-BETA | DEV | v0.2
+BETA | DEV | v0.3
 
 Arduhub is a library designed to cominicate arduino with one Command and Control, without any amount limitation
 
