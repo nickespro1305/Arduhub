@@ -20,9 +20,6 @@ To run this tool on docker, just run the commands acording to your OS
 ### Installation of docker
 
 > [!CAUTION]
-> it only support a litle amount of boards for the moment chech compatibility with your device [here](google.com)
-
-> [!CAUTION]
 > we recommend use a [AUR](https://aur.archlinux.org/) package manager like [yay](https://github.com/Jguer/yay) or [paru](https://github.com/Morganamilo/paru) for docker-hub install
 
 the installation of docker and docker-compose on arch is very simple: 
