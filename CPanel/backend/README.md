@@ -81,16 +81,3 @@ npm run dev &
 > ```
 
 now on your browser you can access to the `http://localhost:5173/` for access the contol panel
-
-## Documentation
-
-> [!TIP]
-> the documentation is for now a WIP, so it can contain gramatical errors, feel free to add an issue [here](https://github.com/nickespro1305/Arduhub/issues)
-
-<div align="center">
-  <table><tr><td>
-
-[![Documentation](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin-Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte)
-
-  </td></tr></table>
-</div>
