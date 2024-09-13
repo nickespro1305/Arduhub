@@ -90,7 +90,7 @@ now on your browser you can access to the `http://localhost:5173/` for access th
 <div align="center">
   <table><tr><td>
 
-[![Documentation](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin-Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte)
+[![Documentation]()](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte)
 
   </td></tr></table>
 </div>
