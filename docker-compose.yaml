@@ -12,3 +12,14 @@ services:
       dockerfile: Dockerfile
     ports:
       - "5173:5173"
+  
+  database:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: users_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data
